@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "Api Rest del master de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Juan Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.3",
+    "rxjs-compat": "^6.6.7"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "nodemon": "^2.0.22"
+  }
+}
