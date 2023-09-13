@@ -10,6 +10,7 @@
   "author": "Juan Escobar",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1455.0",
     "body-parser": "^1.20.2",
     "connect-multiparty": "^2.2.0",
     "cors": "^2.8.5",
@@ -19,6 +20,6 @@
   },
   "devDependencies": {
     "@types/jquery": "^3.5.16",
-    "nodemon": "^2.0.22"
+    "nodemon": "^3.0.1"
   }
 }
